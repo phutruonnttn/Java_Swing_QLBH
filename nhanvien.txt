@@ -1,0 +1,8 @@
+NV01	Trần Minh Đức	0971541692	ductm.kma@gmail.com	1667507c310107c09c28d1ca460bfd84	1	Nam	0
+NV02	Vũ Văn Trường	0966629190	thuongvv.hust@gmail.com	c56d0e9a7ccec67b4ea131655038d604	0	Nam	1
+NV03	Nguyễn Thanh Thủy	0374335445	thanhthuy@zent.vn	e10adc3949ba59abbe56e057f20f883e	1	Nữ	0
+NV05	Nguyễn Văn Vinh	0347878098	vinhnv@zent.vn	e10adc3949ba59abbe56e057f20f883e	1	Nam	0
+NV07	Nguyễn Mai Hương	0343123122	huongnm@zent.vn	e10adc3949ba59abbe56e057f20f883e	1	Nữ	1
+NV09	Nguyễn Thành Long	0987654261	thanhlongdea@gmail.com	202cb962ac59075b964b07152d234b70	0	Nam	1
+NV12	Trần Minh Đức	0868090909	duckma@gmail.com	e10adc3949ba59abbe56e057f20f883e	1	Nam	0
+NV10	AA	0987654321	dd@gmail.com	202cb962ac59075b964b07152d234b70	1	Nam	1

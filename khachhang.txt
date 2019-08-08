@@ -1,0 +1,7 @@
+KH01	Nguyễn Phú Trường	0945108999	phutruongnttn@gmail.com	112 Bạch Mai, HBT, HN	Nam	1
+KH02	Trần Minh Đức	0971541692	ductm.kma@gmail.com	Nghệ An	Nam	0
+KH03	Vũ Văn Thương	0966626190	thuongvv@zent.vn	Hải Dương	Nam	1
+KH04	Nguyễn Vân Anh	0987112323	vananhcute@gmail.com	Hà Nội	Nữ	1
+KH05	Đinh Mỹ Linh	0334564564	mylinh@zent.vn	Nghệ An	Nữ	1
+KH06	Phạm Văn Toàn	0912334221	toanpv@gmail.com	Hà Nội	Nam	1
+KH07	Nguyễn Trung Kiên	0338984342	kientrungnguyen@gmail.com	Nam Định	Nam	1

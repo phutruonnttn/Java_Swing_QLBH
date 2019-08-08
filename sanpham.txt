@@ -1,0 +1,7 @@
+SP01	Bánh mì	chiếc	Kinh Đô	5000	10000	84
+SP02	Sữa	Lốc	TH True Milk	20000	30000	32
+SP03	Mũ	chiếc	Flipper	100000	150000	1
+SP04	Áo mưa	Cái	Thiên Phong	100000	120000	197
+SP05	Balo	Cái	Coolbell	450000	600000	18
+SP06	Vở kẻ ngang HH	Cuốn	Hồng Hà	8000	10000	89
+SP07	Mì tôm Hảo Hảo	Gói	Vinacook	2000	3500	127

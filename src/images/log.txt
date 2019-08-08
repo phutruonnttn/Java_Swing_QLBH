@@ -1,0 +1,11 @@
+08:05:58 Switches begin
+08:05:58 Switches end
+08:05:58 Starting v4.5.0.29
+08:05:58 FBUserToken: '996919390447747'
+08:05:58 FBLocale: 'vi_VN'
+08:05:58 FBAttackId: '117862638982427'
+08:05:59 User is Admin: NO
+08:05:59 Vista or Higher: YES
+08:05:59 IsWow64: YES
+08:05:59 GetWorkDir: C:\Users\Admin\AppData\Local\Temp\FBScanner_615625131
+08:06:00 Trying to start with Admin rights ...: 08:06:01 Success
